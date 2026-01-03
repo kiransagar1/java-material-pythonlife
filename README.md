@@ -1,1 +1,2 @@
-# java-material-pythonlife
+# java-material and interview questions
+-pythonlife
